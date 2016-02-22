@@ -1,5 +1,5 @@
 # Cucumber-Eclipse Plugin
-- This [Motive-Cucumber-Eclipse Plugin](http://motiveqa.github.io/cucumber-eclipse/) is an extended version of the [plugin] (https://github.com/cucumber/cucumber-eclipse) used for [Cucumber](http://cukes.info).
+- This [Cucumber-Eclipse Plugin](http://motiveqa.github.io/cucumber-eclipse/) is an extended version of the [plugin] (https://github.com/cucumber/cucumber-eclipse) used for [Cucumber](http://cukes.info).
 - Please refer our [Cucumber-Eclipse Plugin Wiki](https://github.com/motiveqa/cucumber-eclipse/wiki) for release information.
 - Please visit our [Cucumber-Eclipse Plugin Website](http://motiveqa.github.io/cucumber-eclipse/) for plugin information.
 
