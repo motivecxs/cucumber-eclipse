@@ -21,7 +21,7 @@ Feature List
 * [Sample Feature Definition Template](https://github.com/motiveqa/cucumber-eclipse/wiki/Sample-Feature-Definition-Template)
 - A sample feature definition template is available for any blank feature file.
 - When you will create new feature file(.feature), your feature file content will always overridden with a sample template which can be used as a reference while writing new feature.
-- Steps: From Eclipse, Create a new feature file : Run New > File and naming it with a '.feature' suffix(ex.Hello.feature)  and double click on feature file to bring up the Feature Editor, Now the content will be overridden by a sample template as below :
+- Steps: From Eclipse, Create a new feature file : Run **New > File** and naming it with a '.feature' suffix(ex.Test.feature) and double click on feature file to bring up the Feature Editor, Now the content will be overridden by a sample template as below :
 ![sampletemplatefeaturefile](https://cloud.githubusercontent.com/assets/17194046/13182123/3f429614-d756-11e5-806c-b1122d68d971.jpg)
 
 Issue List
