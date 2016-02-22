@@ -32,7 +32,7 @@ Bugs and Feature requests
 Upcoming Features
 ====================================
 - Content Assistance: 
-  Eclipse editor should assist for auto populating of any exisitng step definitions/keywords while writing steps in Feature file.
+  Eclipse editor should assist for auto populating of any exisiting step definitions/keywords while writing steps in Feature file.
 - Status : In progress
 
 Mailing list :
