@@ -3,9 +3,9 @@
 - Please refer our [Cucumber-Eclipse Plugin Wiki](https://github.com/motivecxs/cucumber-eclipse/wiki) for release information.
 - Please visit our [Cucumber-Eclipse Plugin Website](http://motivecxs.github.io/cucumber-eclipse/) for plugin information.
 
-Release Version 
+Latest Version 
 ====================================
-- Version: 0.0.16
+- Version: 0.0.16.201703160952 
 
 Eclipse Update Site 
 ====================================
